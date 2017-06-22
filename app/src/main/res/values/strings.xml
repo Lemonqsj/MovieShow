@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MovieShow</string>
+
+    <string name="browsing_history">浏览记录</string>
+    <string name="home">首页</string>
+    <string name="bug">ヾ(Ő∀Ő๑)ﾉ</string>
+    <string name="theme">主题</string>
+    <string name="about">关于</string>
+    <string name="download_manager">下载管理</string>
+</resources>
